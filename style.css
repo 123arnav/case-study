@@ -20,8 +20,20 @@ body{
     font-size: 25px;
 }
 #conc{
-    background-color: rgb(187, 181, 181);
+    background-color: rgb(98, 0, 255);
     border-radius: 10px;
     color: black;
 width: 500px;
+}
+#bottle{
+    width: 150px;
+    height: 150px;
+}
+#pizza{
+    width: 150px;
+    height: 150px;
+}
+#book{
+    width: 150px;
+    height: 150px;
 }
